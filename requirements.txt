@@ -1,0 +1,5 @@
+aiogram==2.22.1
+environs==9.5.0
+requests==2.28.1
+googletrans==3.1.0a0
+translate==3.6.1
